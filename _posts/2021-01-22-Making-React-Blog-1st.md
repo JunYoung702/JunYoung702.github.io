@@ -3,8 +3,8 @@ layout: post
 title: "리액트로 블로그 만들기 1일차"
 date: 2021-01-22 01:40:32 +0900
 author: JunYoung
-categories: 프로그래밍
-tags: Web Github React TypeScript
+categories: CS 웹프로그래밍
+tags: Web React TypeScript
 ---
 
 Jekyll 블로그가 이쁘고 좋긴한데 이미 만들어놓은 테마들
@@ -49,6 +49,7 @@ page 디렉토리에는 메인 페이지, 포스트 페이지, About 페이지, 
 - 댓글 구현하기(아마 disqus를 쓰게 될듯)
 - 애니매이션 구현하기(사이드바 나올때 페이지 옆으로 밀리는거나 참고 2번처럼,
   애플 홈페이지에서 제품설명나올때 자주나오는 애니매이션도 비슷한 느낌인듯)
+- LaTex 수식, 코드 하이라이팅 구현
 
 구현하는 데 <a href = "https://reactjsexample.com/">참고할 만한 사이트</a>를 찾았다.
 

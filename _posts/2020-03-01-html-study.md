@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "생활코딩 Web1 HTML/인터넷"
-date:   2020-03-01 12:21:32 +0900
+date: 2020-03-01 12:21:32 +0900
 author: JunYoung
-categories: 프로그래밍
-tags:	Web Github 
+categories: CS 웹프로그래밍
+tags: Web
 ---
 
 <h1>HTML</h1>
@@ -13,35 +13,37 @@ tags:	Web Github
 
 <h2>문법</h2>
 
-* HTML은 태그를 사용해서 명령어의 범위를 지정하고 명령어를 사용한다.
+- HTML은 태그를 사용해서 명령어의 범위를 지정하고 명령어를 사용한다.
 
-    예시)
+  예시)
 
-    ```html
-    <a href = "https://junyoung702.github.io"> 블로그 링크 </a>
-    ```
+  ```html
+  <a href="https://junyoung702.github.io"> 블로그 링크 </a>
+  ```
 
-    <a href = "https://junyoung702.github.io"> 블로그 링크 </a>
+  <a href = "https://junyoung702.github.io"> 블로그 링크 </a>
 
-* 속성: 태그에 추가적인 정보를 표시하기 위해서 만들어진 것
+- 속성: 태그에 추가적인 정보를 표시하기 위해서 만들어진 것
 
-    예시)
+  예시)
 
-    ```html
+  ```html
+  <img
+    src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7648.png"
+  />
+  ```
+
     <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7648.png">
-    ```
 
-    <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7648.png">
+  위 예시에서는 src가 속성이다.
 
-    위 예시에서는 src가 속성이다.
+- 문서 시작할때
 
-* 문서 시작할때
+  ```html
+  <!DOCTYPE html>
+  ```
 
-    ```html
-    <!DOCTYPE html>
-    ```
-
-    을 붙여주면 브라우저가 html파일로 인식한다.
+  을 붙여주면 브라우저가 html파일로 인식한다.
 
 <h1>인터넷</h1>
 
