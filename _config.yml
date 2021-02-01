@@ -15,19 +15,19 @@ description: >- # used by seo meta and the atom feed
   현재 주 관심사는 CS/수학/독서/음악/게임/라즈베리파이/하드웨어 등
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://JunYoung702.github.io"
+url: "https://zooon0.github.io"
 
 author: JunYoung Yeom# change to your full name
 
 github:
-  username: JunYoung702 # change to your github username
+  username: zooon0 # change to your github username
 
 social:
   name: JunYoung Yeom # it will shows as the copyright owner in Footer
   email: 702wnsdud@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/JunYoung702 # change to your github homepage
+    - https://github.com/zooon0 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
